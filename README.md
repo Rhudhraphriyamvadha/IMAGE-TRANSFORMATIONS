@@ -1,6 +1,9 @@
 # IMAGE-TRANSFORMATIONS
 
-## Aim
+## NAME: Rhudhra phriyamvadha K S
+## REG NO: 212224040275
+
+## Aim:
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
 ## Software Required:
